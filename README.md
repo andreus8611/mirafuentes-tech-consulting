@@ -79,3 +79,7 @@ Incluye diagnostico inicial, mapeo de tareas repetitivas, identificacion de opor
 ## Como abrir el sitio
 
 Abre `index.html` directamente en el navegador. No requiere servidor ni instalacion de dependencias.
+
+## Publicacion
+
+El sitio esta preparado para publicarse con GitHub Pages desde la rama `main` mediante GitHub Actions.
