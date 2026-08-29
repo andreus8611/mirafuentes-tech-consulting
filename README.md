@@ -82,4 +82,4 @@ Abre `index.html` directamente en el navegador. No requiere servidor ni instalac
 
 ## Publicacion
 
-El sitio esta preparado para publicarse con GitHub Pages desde la rama `main` mediante GitHub Actions.
+El sitio esta preparado para publicarse con GitHub Pages desde la rama `main`, usando la carpeta raiz (`/root`).
